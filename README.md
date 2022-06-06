@@ -1,5 +1,7 @@
 Check out my business card in your own terminal/CLI!
 
+![card-render](./card-render.png)
+
 # Usage
 
 ```bash
