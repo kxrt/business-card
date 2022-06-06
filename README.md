@@ -2,7 +2,7 @@ Check out my business card in your own terminal!
 
 ![card-render](./card-render.png)
 
-# Requirements
+# Requirement
 * `npm`
 
 # Usage
