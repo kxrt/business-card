@@ -1,6 +1,9 @@
-Check out my business card in your own terminal/CLI!
+Check out my business card in your own terminal!
 
 ![card-render](./card-render.png)
+
+# Requirements
+* `npm`
 
 # Usage
 
