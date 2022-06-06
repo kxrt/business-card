@@ -1,4 +1,4 @@
-It's me, Kartikeya!
+Check out my business card in your own terminal/CLI!
 
 # Usage
 
