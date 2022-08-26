@@ -1,6 +1,6 @@
 {
   "name": "kxrt",
-  "version": "2.5.0",
+  "version": "3.0.0",
   "description": "Kartikeya's business card",
   "main": "./bin/card.js",
   "bin": {
