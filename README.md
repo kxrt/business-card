@@ -1,6 +1,6 @@
 Check out my business card in your own terminal!
 
-![card-render](./card-render.pn g)
+![card-render](./card-render.png)
 
 # Requirement
 * `npm`
